@@ -1,4 +1,6 @@
-## Welcome to my page
+## Ruben David Alves
+
+## CV, Projects, Contact info
 
 You can use the [editor on GitHub](https://github.com/rubendavidalves/rubendavidalves.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
