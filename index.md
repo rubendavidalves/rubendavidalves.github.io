@@ -4,9 +4,9 @@
 
 ## Projects
 
-- 2018 App Pitch Deck: Vannity - a beauty-related services booking app [Files](https://drive.google.com/drive/folders/1T2Kpif89qwU-gbDGLFmlck0q8U8gWWPl?usp=sharing)
+- 2018 App Pitch Deck: Vannity - a beauty-related services booking app [View in Browser](https://drive.google.com/drive/folders/1T2Kpif89qwU-gbDGLFmlck0q8U8gWWPl?usp=sharing) or [Download](https://github.com/rubendavidalves/rubendavidalves.github.io/tree/master/VannityAppProject)
 
-[Market Survey](https://github.com/rubendavidalves/rubendavidalves.github.io/tree/master/VannityAppProject), Initial Pitch & Potential, App requirements & Wireframes, Pitch Deck
+Includes Market Survey, initial pitch & potential, app requirements & wireframes, pitch deck.
 
 ## Curriculum Vitae
 
