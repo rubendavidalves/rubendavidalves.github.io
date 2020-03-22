@@ -1,6 +1,5 @@
 .
 
-.
 
 
 # Ruben David Alves
