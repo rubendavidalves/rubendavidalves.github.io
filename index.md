@@ -19,7 +19,7 @@
 
 ### Experience
 
-- **BUSINESS** **ANALYST** *MARFEEL*
+- **BUSINESS** **ANALYST** ᛫ *MARFEEL*
 
   Barcelona, Spain ᛫ November 2018 - November 2019
 
