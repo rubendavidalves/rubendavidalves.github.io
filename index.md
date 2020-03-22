@@ -57,14 +57,14 @@
 
   UNIVERSIDADE DE LISBOA ᛫ SEPTEMBER 2016 - 2018
   
-  Master Thesis "Regional Distribution of the Portuguese Creative Class" - developed an econometric model to study the drivers of geographical distribution for the Portuguese workforce using a statistical modelling and analysis software (STATA),
+  - Master Thesis "Regional Distribution of the Portuguese Creative Class" - developed an econometric model to study the drivers of geographical distribution for the Portuguese workforce using a statistical modelling and analysis software (STATA),
 Improved leadership and team orientation abilities in subjects as Project Management,  Decision-Aiding Methodologies Information Systems and Supply Chain Management.
 
 - **BSC. INDUSTRIAL ENGINEERING AND MANAGEMENT** ᛫ *INSTITUTO SUPERIOR TÉCNICO (IST)* 
 
   UNIVERSIDADE DE LISBOA ᛫ SEPTEMBER 2013 - 2016
   
-  Lead workgroups on subjects such as Operations Management, Information Systems Databases, Microeconomics and Marketing.
+  - Lead workgroups on subjects such as Operations Management, Information Systems Databases, Microeconomics and Marketing.
 
 ### Languages
 
