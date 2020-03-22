@@ -19,9 +19,9 @@
 
 ### Experience
 
-- **BUSINESS** **ANALYST** | *MARFEEL*
+- **BUSINESS** **ANALYST** *MARFEEL*
 
-  Barcelona, Spain | November 2018 - Currently
+  Barcelona, Spain ᛫ November 2018 - November 2019
 
   - Owner of the Push Notification product, building and managing dashboards to track main KPIs, considering over 15M subscribers in +10 geographic locations.
   
