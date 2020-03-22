@@ -45,7 +45,7 @@
 
 - **SUMMER BUSINESS ANALYST** ᛫ *MCKINSEY & COMPANY*
 
-  Lisboa, Portugal and Luanda, Angola ᛫ June 2015 - August 2015
+  Lisboa, Portugal & Luanda, Angola ᛫ June 2015 - August 2015
 
   - Conceptualized the preliminary proposal to install operations on a new geographical market adopted by a Telecom leader with over 2Bn$USD of revenue per year.
   
