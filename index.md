@@ -19,7 +19,7 @@
 
 ### Experience
 
-- **BUSINESS ANALYST | MARFEEL**
+- **BUSINESS** **ANALYST** | *MARFEEL*
 
   Barcelona, Spain | November 2018 - Currently
 
@@ -27,7 +27,7 @@
   
   - Reporting and development of real-time SQL-based alarm systems responsible for the monitoring of engagement and monetisation KPIs of +200 company clients.
 
-- **JUNIOR PRODUCT MANAGER INTERN | GROUPE RENAULT**
+- **JUNIOR** **PRODUCT** **MANAGER** **INTERN** | *GROUPE RENAULT*
 
   Lisbon, Portugal | January 2018 - July 2018
 
