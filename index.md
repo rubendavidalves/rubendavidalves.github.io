@@ -8,6 +8,10 @@
 
 ## Projects
 
+- **2017-2018; 2020- Sports betting model** Automating repetitive paterns in sports betting to consistently achieve positive ROIs
+  
+  Pitch deck, historical analysis and live project soon.
+
 - **2018 App Pitch Deck: Vannity** a beauty-related services booking app
 
   [View in Browser](https://drive.google.com/drive/folders/1T2Kpif89qwU-gbDGLFmlck0q8U8gWWPl?usp=sharing) or [Download](https://github.com/rubendavidalves/rubendavidalves.github.io/tree/master/VannityAppProject)
@@ -18,6 +22,14 @@
 ## Curriculum Vitae
 
 ### Experience
+
+- **PRODUCT** **ANALYST** ᛫ *FREENOW (ex MyTaxi)*
+
+  Barcelona, Spain ᛫ December 2019 - Currently
+
+  - Leading analysis with direct impact in live app features to improve business metrics related to user acquisition, retention and engagement in +150 European geographies.
+  
+  - Making use of SQL and visualisations tools such as Tableau to communicate results and recommendations to senior management and other internal stakeholders.
 
 - **BUSINESS** **ANALYST** ᛫ *MARFEEL*
 
