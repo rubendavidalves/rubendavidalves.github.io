@@ -8,9 +8,9 @@
 
 ## Projects
 
-- **2017-2018; 2020- Sports betting model** Automating repetitive paterns in sports betting to consistently achieve positive ROIs
+- **(2017-2018; 2020 - Currently) Sports betting model** An automated system with live notifications that identifies repetitive paterns in sports events to consistently achieve positive ROIs through sports betting.
   
-  Pitch deck, historical analysis and live project soon.
+  (in testing phase) Historical analysis, system architecture, pitch deck and live project soon.
 
 - **2018 App Pitch Deck: Vannity** a beauty-related services booking app
 
