@@ -17,7 +17,7 @@
   [View in Browser](https://drive.google.com/drive/folders/1T2Kpif89qwU-gbDGLFmlck0q8U8gWWPl?usp=sharing) or [Download](https://github.com/rubendavidalves/rubendavidalves.github.io/tree/master/VannityAppProject)
   
   Includes Market Survey, initial pitch & potential, app requirements & wireframes, pitch deck.
-
+  
 
 ## Curriculum Vitae
 
@@ -71,6 +71,8 @@
   
   - Master Thesis "Regional Distribution of the Portuguese Creative Class" - developed an econometric model to study the drivers of geographical distribution for the Portuguese workforce using a statistical modelling and analysis software (STATA),
 Improved leadership and team orientation abilities in subjects as Project Management,  Decision-Aiding Methodologies Information Systems and Supply Chain Management.
+
+  Available here [Universidade Lisboa library](https://bibliotecas.utl.pt/cgi-bin/koha/opac-detail.pl?biblionumber=537842)
 
 - **BSC. INDUSTRIAL ENGINEERING AND MANAGEMENT** ᛫ *INSTITUTO SUPERIOR TÉCNICO (IST)* 
 
